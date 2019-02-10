@@ -1,0 +1,64 @@
+/* Additional css Styling for our app */
+
+.footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        color: #B61E2E;
+        text-align: center;
+}
+
+a:link {color:#B61E2E; text-decoration:underline; font-size:100%}
+a:visited {color:#B61E2E;text-decoration:underline;}
+a:hover  {font-size:150%;color:#B61E2E;text-decoration:underline;}
+a:active {color:#B61E2E;}
+
+p.app {
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;line-height:1.5;color:#000000;
+	font-weight:400;
+}
+
+.panel-primary{
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;line-height:1.5;color:#000000;
+	font-weight:400;
+}
+
+.jumbotron{
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;line-height:1.5;color:#000000;
+	font-weight:400;
+}
+
+.jumbotron-title{
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:24px;line-height:1.5;color:#000000;
+	font-weight:400;
+}
+
+html{
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;line-height:1.5;color:#000000;
+	font-weight:400;
+}
+
+.panel-title{
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:24px;line-height:1.5;color:#FFFFFF;
+	font-weight:400;
+}
+
+p.sidebar{
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:24px;line-height:1.5;color:#FFFFFF;
+	font-weight:400;
+}
+
+p.h {
+	font-family:"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:48px;line-height:1.5;color:#000000;
+	font-weight:400;
+}
